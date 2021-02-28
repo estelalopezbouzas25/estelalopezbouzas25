@@ -12,5 +12,7 @@ Lista ordenada:
 
 ![alt text](https://i.blogs.es/aa1b9a/luna-100mpx/450_1000.jpg)
 
+[a relative link](testpage.md)
+
 
 
